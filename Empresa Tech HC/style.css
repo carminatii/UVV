@@ -35,7 +35,7 @@ nav ul li a:hover {
 }
 
 #home {
-    background: url(tecnologia.jpg) center/cover no-repeat;
+    background: url("https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_1280.jpg") center/cover no-repeat;
     color: white;
     text-align: center;
     height: 100vh;
